@@ -1,1 +1,1 @@
-# javascript-i18n-i18next
+# javascript-i18n-globalize.js
